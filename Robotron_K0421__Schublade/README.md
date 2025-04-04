@@ -3,6 +3,7 @@
 ## Status
 
 gedruckt, getestet und für gut befunden
+
 Die Haltbarkeit des Materials unter dem Einfluß der UV-Lampe muß noch ermittelt werden.
 
 ## Hinweise
